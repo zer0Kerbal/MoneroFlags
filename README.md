@@ -10,7 +10,7 @@ updated: 11 Aug 2021 -->
 #### Brings you:  
 
 # MoneroFlags (QBFP)  
-A pack of Monero flags for use in Kerbal Space Program..
+A pack of Monero flags for use in Kerbal Space Program.
 
 Available on CKAN as `MoneroFlags`.
 
