@@ -132,7 +132,7 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 
 ### Tags
 
-- config, parts, convenience
+- flags
 
 ***
 
