@@ -1,5 +1,5 @@
 <!-- Readme.md v1.5.2.0
-MoneroFlags (QBFP)  
+MoneroFlags (QBMF)  
 created: 11 Aug 2018
 updated: 11 Aug 2021 -->
 
@@ -9,7 +9,7 @@ updated: 11 Aug 2021 -->
 
 #### Brings you:  
 
-# MoneroFlags (QBFP)  
+# MoneroFlags (QBMF)  
 A pack of Monero flags for use in Kerbal Space Program.
 
 Available on CKAN as `MoneroFlags`.
