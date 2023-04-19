@@ -85,7 +85,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 #### Original (ROOT) (0) - Author: [`QuickBASIC`][auth-link]
 
-> Forum: [Thread][MOD:0:thread] - Download: [Dropbox][MOD:0:dnload] - Source: [Dropbox][MOD:0:source]  
+> Forum: [Thread][MOD:0:thread] - Download: [CurseForge][MOD:0:dnload] - Source: [CurseForge][MOD:0:source]  
 > LIC: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
 >
 > This project is licensed under the Creative Commons Attribution Share-Alike 4.0 license.
