@@ -17,7 +17,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 A pack of Monero flags for use in Kerbal Space Program.
 
-## By [zer0Kerbal][zer0kerbal], originally by [QuickBASIC][QuickBASIC]
+## By [zer0Kerbal][zer0kerbal], originally by [QuickBASIC][auth-link]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
@@ -73,7 +73,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 ### Credits and Special Thanks
 
->* [QuickBASIC][QuickBASIC] for developing this glorious addon!
+>* [QuickBASIC][auth-link] for developing this glorious addon!
 >* see [Attributions][attrb] for more
 
 ### Legal Mumbo Jumbo (License *provenance*)
@@ -83,7 +83,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 > Forum: [Thread][forum] - Source: [GitHub][GITHUB:url] - Download [CurseForge][CURSFG:url]  
 > LIC: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
 
-#### Original (ROOT) (0) - Author: [`AUTH-NAME`][auth-link]
+#### Original (ROOT) (0) - Author: [`QuickBASIC`][auth-link]
 
 > Forum: [Thread][MOD:0:thread] - Download: [Dropbox][MOD:0:dnload] - Source: [Dropbox][MOD:0:source]  
 > LIC: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
