@@ -173,7 +173,7 @@ Comment, click, like, share, up-vote, subscribe
 [KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MoneroFlags/master/json/ksp.json "Kerbal Space Program"
 
 <!--- statics -->
-[QuickBASIC]: https://forum.kerbalspaceprogram.com/index.php?/profile/148013-*/  "QuickBASIC"
+[auth-link]: https://forum.kerbalspaceprogram.com/index.php?/profile/148013-*/  "QuickBASIC"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal (zed'K)"
 
 <!-- financial support -->
