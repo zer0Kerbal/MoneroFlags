@@ -137,7 +137,7 @@ Comment, click, like, share, up-vote, subscribe
 [attrb]: https://zer0kerbal.github.io/MoneroFlags/Attributions "Attribution"
 [chlog]: https://raw.githubusercontent.com/zer0Kerbal/MoneroFlags/master/changelog.md  "Changelog"
 [discu]: https://github.com/zer0Kerbal/MoneroFlags/discussions "Discussions"
-[forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/192742-*/ "MoneroFlags Forum Thread"
+[forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/204753-*/ "Monero Flags"
 [issue]: https://github.com/zer0Kerbal/MoneroFlags/issues "Issues"
 [notic]: https://zer0kerbal.github.io/MoneroFlags/Notices "Notices"
 [pages]: https://zer0kerbal.github.io/MoneroFlags "GitHub Pages"
@@ -148,9 +148,9 @@ Comment, click, like, share, up-vote, subscribe
 [SHD:pages]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- original mod -->
-[MOD:0:dnload]: https://github.com/QuickBASIC/MoneroFlags/releases/latest
+[MOD:0:dnload]: https://github.com/QuickBASIC/MoneroFlags
 [MOD:0:source]: https://github.com/QuickBASIC/MoneroFlags
-[MOD:0:thread]: https://forum.kerbalspaceprogram.com/
+[MOD:0:thread]: https://github.com/QuickBASIC/MoneroFlags
 
 <!--- license  -->
 [LIC:0:url]: http://creativecommons.org/licenses/by-sa/4.0/ "CC BY-SA 4.0"
