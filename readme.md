@@ -54,11 +54,11 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 ### Recommends
 
-* By QuickBasic
+* By [QuickBASIC][auth-link]
   * [KIS No Fun][QBKN]
   * [ISRU Thanks But No Tanks (KBTT)][QBTT]
   * [Monero Flags (QBMF)][QBMF]
-  * [Kerbal Change Log][kcl]
+  * [UniversalStorageStockResourceFuelCell (QBUS)][QBUS]
 
 ### Tags
 
@@ -171,6 +171,12 @@ Comment, click, like, share, up-vote, subscribe
 <!-- Kerbal Space Program -->
 [KSP:url]: http://kerbalspaceprogram.com/ "Kerbal Space Program"
 [KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MoneroFlags/master/json/ksp.json "Kerbal Space Program"
+
+<!-- links to add-ons/mods -->
+[QBTT]: https://www.curseforge.com/kerbal/ksp-mods/isruthanksbutnotanks "ISRU Thanks But No Tanks (QBTT)"
+[QBKN]: https://www.curseforge.com/kerbal/ksp-mods/kerbalinventorysystemnofun  "KIS No Fun (QBNF)"
+[QBMF]: https://www.curseforge.com/kerbal/ksp-mods/moneroflags  "Monero Flags (QBMF)"
+[QBUS]: https://www.curseforge.com/kerbal/ksp-mods/universalstoragestockresourcefuelcell "UniversalStorageStockResourceFuelCell (QBUS)"
 
 <!--- statics -->
 [auth-link]: https://forum.kerbalspaceprogram.com/index.php?/profile/148013-*/  "QuickBASIC"
