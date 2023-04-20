@@ -13,7 +13,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 [![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![GitHub Pages][SHD:pages]][pages]
 
-# [Monero Flags (QBFP)][QBFP]
+# [Monero Flags (QBFP)][QBMF]
 
 A pack of Monero flags for use in Kerbal Space Program.
 
