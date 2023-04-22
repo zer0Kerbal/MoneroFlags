@@ -55,10 +55,10 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 ### Recommends
 
 * By [QuickBASIC][auth-link]
-  * [KIS No Fun][QBKN]
-  * [ISRU Thanks But No Tanks (KBTT)][QBTT]
+  * [ISRU Thanks But No Tanks (QBTT)][QBTT]
+  * [KIS No Fun (QBNF)][QBKN]
   * [Monero Flags (QBMF)][QBMF]
-  * [UniversalStorageStockResourceFuelCell (QBUS)][QBUS]
+  * [Universal Storage Stock Resource Fuel Cell (QBUS)][QBUS]
 
 ### Tags
 
@@ -144,7 +144,6 @@ Comment, click, like, share, up-vote, subscribe
 
 <!-- shields -->
 [SHD:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MoneroFlags/master/json/mod.json
-
 [SHD:pages]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- original mod -->
