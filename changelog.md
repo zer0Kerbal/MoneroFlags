@@ -25,12 +25,12 @@
   * [ ] 64x40 truecolor scaled
   * [Hohmannson](https://github.com/hohmannson)
 
-<!-- _2agency.md
-version: 1.2.0.0
-created: 01 Jan 2022
-updated: 01 Oct 2022 -->
-
-this file: © All Rights Reserved by zer0Kerbal
+  * closes #5 - Make this into an agency
+  * closes #31 - Create Agency
+  * closes #14 - English <en-us.cfg>
+  * updates #13 - Localization - Master
+  * closes #8 - Monero Flags (QBMF) 1.0.0.0-release `<Hohmannson>` edition
+  * closes #9 - 1.0.0.0 Additional Tasks
 
 ---
 
