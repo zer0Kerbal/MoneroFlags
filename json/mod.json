@@ -1,8 +1,8 @@
 {
  "schemaVersion": 1,
- "label": "MoneroFlags",
+ "label": "Monero Flags",
  "labelColor": "BADA55",
- "message": "0.1.2.0",
+ "message": "1.0.0.0",
  "color": "darkgreen",
  "style": "plastic"
 }
