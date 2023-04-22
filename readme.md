@@ -1,5 +1,5 @@
 <!-- Readme.md v1.0.0.0
-Monero Flags (QBFP)
+Monero Flags (QBMF)
 created: 09 Sept 2021
 updated: 18 Apr 2023
 
@@ -9,11 +9,11 @@ updated: 15 Apr 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
-[![Monero Flags (QBFP)][SHD:mod]][CURSFG:url]  
+[![Monero Flags (QBMF)][SHD:mod]][CURSFG:url]  
 [![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![GitHub Pages][SHD:pages]][pages]
 
-# [Monero Flags (QBFP)][QBMF]
+# [Monero Flags (QBMF)][QBMF]
 
 A pack of Monero flags for use in Kerbal Space Program.
 
