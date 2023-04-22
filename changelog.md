@@ -17,14 +17,39 @@
   * For Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-# Create Agency
+### Change Summary
+
+* fit and polish for final release
+* update
+  * Hero Logo
+* Create
+  * agency
+  * flag
+  * 64x40 truecolor scaled
+  * thank you [Hohmannson](https://github.com/hohmannson) for the basics
+* Convert
+  * flags to 512x320
+  * png --> dds
+* Localize (en-us)
+
+### Changes 1.0.0.0
 
 * Create
-  * [ ] agency
-  * [ ] flag
-  * [ ] 64x40 truecolor scaled
-  * [Hohmannson](https://github.com/hohmannson)
-
+  * Localization directory and contents
+    * <en-us.cfg>
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.1
+* GitHub Pages
+  * docs/
+    * [`_config.yml`]
+    * [Attribution.md] v1.0.7.1
+    * [ManualInstallation.md] v1.1.8.0
+    * [404.md] v1.0.3.2
+    * [LegalMumboJumbo.md] v1.0.5.1
+    * [Localizations.md] v1.1.7.0
+    * [Notices.md] v1.0.1.0
+    * [Why.md] v1.1.0.0
+* Issues
   * closes #5 - Make this into an agency
   * closes #31 - Create Agency
   * closes #14 - English <en-us.cfg>
