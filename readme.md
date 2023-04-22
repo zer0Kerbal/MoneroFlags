@@ -15,7 +15,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 # [Monero Flags (QBMF)][QBMF]
 
-A pack of Monero flags for use in Kerbal Space Program.
+Monero agent and flags for use in Kerbal Space Program.
 
 ## By [zer0Kerbal][zer0kerbal], originally by [QuickBASIC][auth-link]
 
