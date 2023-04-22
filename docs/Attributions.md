@@ -45,20 +45,17 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 ### Agency
 
 <ul>
-  <li><a href="(https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/)"><img alt="zer0Kerbal" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_08/free-clipart-hithhikers-guide-14.thumb.jpg.05fc7d1bdc37ce2bfca8923bf1e97303.jpg" width="50px" height="50px" > zer0Kerbal</a></li>
+  <li><a href="(https://forum.kerbalspaceprogram.com/index.php?/profile/202712-*/)"><img alt="Hohmannson" src="https://forum.kerbalspaceprogram.com/uploads/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50px" height="50px" > Hohmannson</a></li>
 </ul>
 
 ### Contract(s)
 
-<ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/207619-*/"><img alt="caerfinon" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2022_09/wxImeeP2.thumb.jpg.fdf7794f6380664d5e14876b4232125e.jpg" width="50px" height="50px" > caerfinon</a></li>
-</ul>
+* none
 
 ### Translations
 
 <ul>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/IT.png " alt="Italiano" style="zoom:100%;" /> Italian (Italiano) - courtesy of <a href="https://github.com/MattNot" alt="MattNot">Mattnot</a></li>
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
 
@@ -73,6 +70,8 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 ### Art Asset(s)
 
 * Flags
+* Hero Image (cover)
+  * All Rights Reserved
 
 ### Testing and Support
 
