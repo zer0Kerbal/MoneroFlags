@@ -19,7 +19,7 @@ based upon work by Lisias -->
 
 [Home](./index.md)
 
-ModularManagement config script to add a Universal Storage Fuel Cell that can use Liquid Fuel and Oxidizer instead of other resources.
+Monero agent and flags for use in Kerbal Space Program.
 
 ## Installation Instructions
 
@@ -32,22 +32,22 @@ You should be all good! (check for latest version on CurseForge)
 To install, place the `QuickBASIC` folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/QuickBASIC/UniversalStorageStockResourceFuelCell`
+  * Delete `<KSP_ROOT>/GameData/QuickBASIC/MoneroFlags`
 * Extract the package's `QuickBASIC/` folder into your KSP's GameData folder as follows:
   * `<PACKAGE>/QuickBASIC` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting folder/file(s).
-  * you should end up with `<KSP_ROOT>/GameData/QuickBASIC/UniversalStorageStockResourceFuelCell`
+  * you should end up with `<KSP_ROOT>/GameData/QuickBASIC/MoneroFlags`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
 To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/QuickBASIC/UniversalStorageStockResourceFuelCell`
+  * Delete `<KSP_ROOT>/GameData/QuickBASIC/MoneroFlags`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
-  * you should end up with `<KSP_ROOT>/GameData/QuickBASIC/UniversalStorageStockResourceFuelCell`
+  * you should end up with `<KSP_ROOT>/GameData/QuickBASIC/MoneroFlags`
 
 ## The following file layout must be present after installation
 
@@ -55,21 +55,24 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 <KSP_ROOT>
   + [GameData]
     + [QuickBASIC]
-      + [UniversalStorageStockResourceFuelCell][QBUS]
+      + [MoneroFlags][mod]
+      + [Agencies]
         ...
       + [Config]
+        ...
+      + [Localization]
+        ...
+      + [Flags]
+        ...
       * #.#.#.#.htm
       * Attributions.htm
+      * CC-BY-SA-4.0.txt
       * changelog.md
-      * GPL-2.0.txt
       * ManualInstallation.htm
+      * MoneroFlags.version
       * readme.htm
-      * UniversalStorageStockResourceFuelCell.version
-      ...
-    + [UniversalStorage][us]
       ...
     ...
-    * [ModularManagement (MM)][MM] or [Module Manager][mm]
     * ModuleManager.ConfigCache
   * KSP.log
   ...
