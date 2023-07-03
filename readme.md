@@ -1,19 +1,18 @@
-<!-- Readme.md v1.0.0.0
+<!-- Readme.md v1.0.1.0
 Monero Flags (QBMF)
 created: 09 Sept 2021
-updated: 18 Apr 2023
+updated: 03 Jul 2023
 
-TEMPLATE: readme.md v1.7.2.1
+TEMPLATE: readme.md v1.7.4.2
 created: 17 Jul 2017
-updated: 15 Apr 2023
+updated: 18 Jun 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+# [Monero Flags (QBMF)][QBMF]
 
 [![Monero Flags (QBMF)][SHD:mod]][CURSFG:url]  
 [![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![GitHub Pages][SHD:pages]][pages]
-
-# [Monero Flags (QBMF)][QBMF]
 
 Monero agent and flags for use in Kerbal Space Program.
 
@@ -22,6 +21,13 @@ Monero agent and flags for use in Kerbal Space Program.
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/MoneroFlags/master/img/HeroLogo_1920x1920.png" alt="MoneroFlags Hero" width="50%" height="50%">
+
+### Localization
+
+>* ![English](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png) English
+>* ![Spanish (Español)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png) Spanish (Español) - gracias [alvarohghg](https://github.com/alvarohghg)
+>* ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский) - спасибо [evanisrael](https://github.com/evanisrael)
+>* ***your translation here***
 
 ### See more
 
@@ -34,13 +40,8 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 > * Contracts
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
-> * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quickstart guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
+> * Translations: See the [README's in the Localization folder](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md) for instructions for adding or improving translations. There is also the [quick start guide(s)](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md). [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 > * Have a request? Glad to have them, kindly submit through [GitHub][issue].
-
-### Localization
-
->* ![English][EN] English
->* ***your translation here***
 
 ### Installation Directions
 
@@ -50,15 +51,16 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 ### Dependencies
 
-* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url]
+* 📌 Pinned
+  * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url]
 
 ### Recommends
 
-* By [QuickBASIC][auth-link]
-  * [ISRU Thanks But No Tanks (QBTT)][QBTT]
-  * [Kerbal Inventory System No Fun (QBNF)][QBKN]
-  * [Monero Flags (QBMF)][QBMF]
-  * [Universal Storage Stock Resource Fuel Cell (QBUS)][QBUS]
+* By [QuickBASIC](https://forum.kerbalspaceprogram.com/index.php?/profile/148013-*/)
+  * [ISRU Thanks But No Tanks (QBTT)](https://curseforge.com/kerbal/ksp-mods/isruthanksbutnotanks)
+  * [Kerbal Inventory System No Fun (QBNF)](https://curseforge.com/kerbal/ksp-mods/kerbalinventorysystemnofun)
+  * [Monero Flags (QBMF)](https://curseforge.com/kerbal/ksp-mods/moneroflags)
+  * [UniversalStorageStockResourceFuelCell (QBUS)](https://curseforge.com/kerbal/ksp-mods/universalstoragestockresourcefuelcell)
 
 ### Tags
 
