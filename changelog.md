@@ -1,13 +1,12 @@
-﻿# Changelog  
+# Changelog  
   
-| modName    | Monero Flags (QBMF)                                               |
+| modName    | Monero Flags (QBMF) by QuickBASIC                                 |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-SA-4.0                                                      |
+| license    | CC-BY-SA-4.0+ARR                                                  |
 | author     | QuickBASIC and zer0Kerbal                                         |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/204753-*/) |
 | github     | (https://github.com/zer0Kerbal/MoneroFlags)                       |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/MoneroFlags)          |
-| spacedock  | (https://spacedock.info/mod/)                                     |
 | ckan       | MoneroFlags                                                       |
 
 ## Version 1.0.0.0-release - `<Hohmannson>` edition
