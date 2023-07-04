@@ -1,7 +1,7 @@
-<!-- Readme.md v1.0.1.0
+<!-- Readme.md v1.0.2.0
 Monero Flags (QBMF)
 created: 09 Sept 2021
-updated: 03 Jul 2023
+updated: 10 Jul 2023
 
 TEMPLATE: readme.md v1.7.4.2
 created: 17 Jul 2017
