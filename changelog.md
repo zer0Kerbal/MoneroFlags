@@ -1,4 +1,4 @@
-# Changelog  
+﻿# Changelog  
   
 | modName    | Monero Flags (QBMF) by QuickBASIC                                 |
 | ---------- | ----------------------------------------------------------------- |
@@ -36,10 +36,13 @@
 
 #### Documentation 1.0.1.0
 
+* Add
+  * [Flags.md] v1.0.0.0
+  * [Marketing.md] v1.0.0.0
 * Update
-  * [Attributions.md] v1.0.1.0
-  * [Localizations.md] v1.0.1.0
-  * [404.md] v1.0.1.0
+  * [404.md] v1.0.3.0
+  * [Attributions.md] v1.0.3.0
+  * [Localizations.md] v1.0.3.0
   * [readme.md] v1.0.1.0
   * [ReleaseLayout.md] v1.0.1.0
 
