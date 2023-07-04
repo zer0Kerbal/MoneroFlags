@@ -29,10 +29,12 @@
     * [es-es.cfg] v1.0.0.0
     * Gracias [alvarohghg](https://github.com/alvarohghg)
 * Update
+  * [en-us.cfg] v1.0.1.0
   * [es-es.cfg] v1.0.1.0
   * add header, give credit
 * closes #17 - Spanish (Español) <es-es.cfg>
 * updates #13 - Localization - Master
+* updates #14 - English <en-us.cfg>
 
 #### Documentation 1.0.1.0
 
