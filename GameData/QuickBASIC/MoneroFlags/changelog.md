@@ -1,14 +1,60 @@
 ﻿# Changelog  
   
-| modName    | Monero Flags (QBMF)                                               |
+| modName    | Monero Flags (QBMF) by QuickBASIC                                 |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-SA-4.0                                                      |
+| license    | CC-BY-SA-4.0+ARR                                                  |
 | author     | QuickBASIC and zer0Kerbal                                         |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/204753-*/) |
 | github     | (https://github.com/zer0Kerbal/MoneroFlags)                       |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/MoneroFlags)          |
-| spacedock  | (https://spacedock.info/mod/)                                     |
 | ckan       | MoneroFlags                                                       |
+
+## Version 1.0.1.0-release - `<Gracias alvarohghg>` edition
+
+* Released
+  * 03 Jul 2023
+  * For Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary
+
+* Localize
+  * ![Spanish (Español)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png) Spanish (Español)
+  * Gracias [alvarohghg](https://github.com/alvarohghg)
+
+#### Localization 1.0.1.0
+
+* Add
+  * Spanish (Español)
+    * [es-es.cfg] v1.0.0.0
+    * Gracias [alvarohghg](https://github.com/alvarohghg)
+* Update
+  * [en-us.cfg] v1.0.1.0
+  * [es-es.cfg] v1.0.1.0
+  * add header, give credit
+* closes #17 - Spanish (Español) <es-es.cfg>
+* updates #13 - Localization - Master
+* updates #14 - English <en-us.cfg>
+
+#### Documentation 1.0.1.0
+
+* Add
+  * [Flags.md] v1.0.0.0
+  * [Marketing.md] v1.0.0.0
+* Update
+  * [404.md] v1.0.3.0
+  * [Attributions.md] v1.0.3.0
+  * [Localizations.md] v1.0.3.0
+  * [readme.md] v1.0.1.0
+  * [ReleaseLayout.md] v1.0.1.0
+
+### Status 1.0.1.0
+
+* Issues
+  * closes #11 - Monero Flags (QBMF) 1.0.1.0-release `<Thank you QuickBASIC>` edition
+  * closes #12 - 1.0.1.0 Additional Tasks
+
+---
 
 ## Version 1.0.0.0-release - `<Hohmannson>` edition
 
