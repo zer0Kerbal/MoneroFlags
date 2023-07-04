@@ -9,6 +9,51 @@
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/MoneroFlags)          |
 | ckan       | MoneroFlags                                                       |
 
+## Version 1.0.2.0-release - `<Спасибо evanisrael>` edition
+
+* Released
+  * 10 Jul 2023
+  * For Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 1.0.2.0
+
+* Localize
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+  * Спасибо [evanisrael](https://github.com/evanisrael)
+
+#### Localization 1.0.2.0
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [evanisrael](https://github.com/evanisrael)
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github.com/evanisrael)
+* Update
+  * [ru.cfg] v1.0.1.0
+  * add header, give credit
+* closes #21 - Russian (Русский) <ru.cfg>
+* updates #13 - Localization - Master
+
+#### Documentation 1.0.2.0
+
+* Update
+  * [Attributions.md] v1.0.2.0
+  * [Localizations.md] v1.0.2.0
+  * [readme.md] v1.0.2.0
+  * [ReleaseLayout.md] v1.0.2.0
+
+### Status 1.0.2.0
+
+* Issues
+  * closes #36 - Monero Flags (QBMF) 1.0.2.0-release `<Спасибо evanisrael>` edition
+  * closes #37 - 1.0.2.0 Additional Tasks
+
+---
+
 ## Version 1.0.1.0-release - `<Gracias alvarohghg>` edition
 
 * Released
@@ -16,7 +61,7 @@
   * For Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-### Change Summary
+### Change Summary 1.0.1.0
 
 * Localize
   * ![Spanish (Español)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png) Spanish (Español)
@@ -43,8 +88,8 @@
   * [Marketing.md] v1.0.0.0
 * Update
   * [404.md] v1.0.3.0
-  * [Attributions.md] v1.0.3.0
-  * [Localizations.md] v1.0.3.0
+  * [Attributions.md] v1.0.1.0
+  * [Localizations.md] v1.0.1.0
   * [readme.md] v1.0.1.0
   * [ReleaseLayout.md] v1.0.1.0
 
