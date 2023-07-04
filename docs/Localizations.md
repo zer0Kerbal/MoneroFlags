@@ -4,10 +4,10 @@ title: Localizations
 description: camera goes *click-click*
 tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-<!-- Localizations.md v1.0.1.0
+<!-- Localizations.md v1.0.2.0
 Monero Flags (QBMF)
 created: 06 Jun 2021
-updated: 03 Jul 2023
+updated: 10 Jul 2023
 
 TEMPLATE: Localizations.md v1.2.0.0
 created: 01 Feb 2022
@@ -26,6 +26,7 @@ has been translated into the following languages:
 
 * ![English](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png) English <us-en.cfg>
 * ![Español (Spanish)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/ES.png) Spanish (Español) <es-es.cfg>
+* ![Русский (Russian)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png) Russian (Русский) <ru.cfg>
 
 __These localizations for KSP and its DLC's are available through Steam:__
 
@@ -34,7 +35,6 @@ __These localizations for KSP and its DLC's are available through Steam:__
 * ![Italiano (Italian)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/IT.png) Italian (Italiano) <it-it.cfg>
 * ![日本語 (Japanese)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/JA.png) Japanese(日本語) <ja.cfg>
 * ![Português Brasil (Brazilian Portugues)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/BR.png) Brazilian Portuguese (Português Brasil) <pt-br.cfg>
-* ![Русский (Russian)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png) Russian (Русский) <ru.cfg>
 * ![简体中文 (Simplified Chinese))](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/CH.png) Simplified Chinese (简体中文) <zh-cn.cfg>
 
 ## Additionally Included
