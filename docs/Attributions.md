@@ -4,10 +4,10 @@ title: Attributions
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
 tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-<!-- Attributions.md v1.0.1.0
+<!-- Attributions.md v1.0.2.0
 Monero Flags (QBMF)
 created: 06 Jun 2021
-updated: 03 Jul 2023
+updated: 10 Jul 2023
 
 TEMPLATE: Attributions.md v1.0.9.0
 created: 01 Feb 2022
@@ -55,6 +55,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 <ul>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/ES.png" alt="Spanish (Español)" style="zoom:100%;" /> Spanish (Español) - gracias <a href="https://github.com/alvarohghg" alt="alvarohghg">alvarohghg</a></li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png" alt="Russian (Русский)" style="zoom:100%;" /> Russian (Русский) - спасибо <a href="https://github.com/evanisrael" alt="evanisrael">evanisrael</a></li>
   <li><small><i>Additions and corrections welcome!</i></small></li>
 </ul>
 
