@@ -1,5 +1,5 @@
 {
-    "NAME"			 : "Monero Flags (QBMF)by QuickBASIC",
+    "NAME"			 : "Monero Flags (QBMF) by QuickBASIC",
 	"URL"			 : "https ://raw.githubusercontent.com/zer0Kerbal/MoneroFlags/master/MoneroFlags.version",
 	"DOWNLOAD"		 : "https ://github.com/zer0Kerbal/MoneroFlags/releases/latest",
 	"CHANGE_LOG_URL" : "https ://raw.githubusercontent.com/zer0Kerbal/MoneroFlags/master/changelog.md",
@@ -13,7 +13,7 @@
 	{
 		"MAJOR" : 1,
 		"MINOR" : 0,
-		"PATCH" : 0,
+		"PATCH" : 1,
 		"BUILD" : 0
 	},
 	"KSP_VERSION" :
