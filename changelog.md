@@ -9,6 +9,48 @@
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/MoneroFlags)          |
 | ckan       | MoneroFlags                                                       |
 
+## Version 1.0.1.0-release - `<Gracias alvarohghg>` edition
+
+* Released
+  * 03 Jul 2023
+  * For Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary
+
+* Localize
+  * ![Spanish (Español)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png) Spanish (Español)
+  * Gracias [alvarohghg](https://github.com/alvarohghg)
+
+#### Localization 1.0.1.0
+
+* Add
+  * Spanish (Español)
+    * [es-es.cfg] v1.0.0.0
+    * Gracias [alvarohghg](https://github.com/alvarohghg)
+* Update
+  * [es-es.cfg] v1.0.1.0
+  * add header, give credit
+* closes #17 - Spanish (Español) <es-es.cfg>
+* updates #13 - Localization - Master
+
+#### Documentation 1.0.1.0
+
+* Update
+  * [Attributions.md] v1.0.1.0
+  * [Localizations.md] v1.0.1.0
+  * [404.md] v1.0.1.0
+  * [readme.md] v1.0.1.0
+  * [ReleaseLayout.md] v1.0.1.0
+
+### Status 1.0.1.0
+
+* Issues
+  * closes #11 - Monero Flags (QBMF) 1.0.1.0-release `<Thank you QuickBASIC>` edition
+  * closes #12 - 1.0.1.0 Additional Tasks
+
+---
+
 ## Version 1.0.0.0-release - `<Hohmannson>` edition
 
 * Released
